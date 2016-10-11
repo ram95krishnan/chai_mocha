@@ -22,6 +22,9 @@
   "homepage": "https://github.com/ram95krishnan/chai_mocha#readme",
   "dependencies": {
     "chai": "^3.5.0",
-    "mocha": "^3.1.0"
+    "mocha": "^3.1.0",
+    "webpack": "^1.13.2",
+    "request": "^2.74.0",
+    "should": "^10.0.0"
   }
 }
